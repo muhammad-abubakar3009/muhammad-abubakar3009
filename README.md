@@ -8,8 +8,8 @@ and problem-solving. I'm currently expanding into full-stack / backend developme
 
 - 🎓 BS Information Technology — University of the Punjab (2021–2025)
 - 💼 1+ year freelance experience: WordPress, Shopify, payment gateway integration, SEO
-- 🔭 Currently building: [mention your current learning project once you have one, e.g. "a full-stack task manager app"]
-- 🌱 Learning: JavaScript / backend fundamentals (update this as it changes)
+- 🔭 Recently built: a full-stack Inventory Manager (Node.js, Express, SQLite, auth)
+- 🌱 Learning: JavaScript / backend fundamentals, expanding into full-stack development
 - 📫 Reach me: abubakaarmughal@gmail.com
 - 📍 Based in Lahore, Pakistan
 
@@ -32,15 +32,14 @@ and problem-solving. I'm currently expanding into full-stack / backend developme
 
 ### 📌 Featured Projects
 
-**[Smart Resume Screening System](#)** — Final Year Project
-A system that automatically screens and ranks resumes against job requirements using
-sorting algorithms and a modular OOP design (Candidate, Job, and Screening Engine classes).
+**[Inventory Manager](https://github.com/muhammad-abubakar3009/inventory-manager)** — Full-Stack Web App
+A full-stack inventory management app with user authentication and complete CRUD
+functionality. Built with Node.js, Express, and SQLite — includes session-based auth,
+password hashing, and a REST API.
 
-**[Ecommerce Store Builds (WordPress & Shopify)](#)** — Freelance
+**Ecommerce Store Builds (WordPress & Shopify)** — Freelance
 Developed and customized multiple online stores using WooCommerce and Shopify, including
 payment gateway integration, shipping rule configuration, and inventory management.
-
-*(Replace the `#` links above with your actual repo URLs once uploaded — instructions below)*
 
 ---
 
