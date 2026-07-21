@@ -8,7 +8,7 @@ and problem-solving. I'm currently expanding into full-stack / backend developme
 
 - 🎓 BS Information Technology — University of the Punjab (2021–2025)
 - 💼 1+ year freelance experience: WordPress, Shopify, payment gateway integration, SEO
-- 🔭 Recently built: a full-stack Inventory Manager (Node.js, Express, SQLite, auth)
+- 🔭 Recently built: a full-stack Inventory Manager (Node.js/Express/SQLite) and a C++ Library Management System
 - 🌱 Learning: JavaScript / backend fundamentals, expanding into full-stack development
 - 📫 Reach me: abubakaarmughal@gmail.com
 - 📍 Based in Lahore, Pakistan
@@ -36,6 +36,10 @@ and problem-solving. I'm currently expanding into full-stack / backend developme
 A full-stack inventory management app with user authentication and complete CRUD
 functionality. Built with Node.js, Express, and SQLite — includes session-based auth,
 password hashing, and a REST API.
+
+**[Library Management System](https://github.com/muhammad-abubakar3009/library-management-cpp)** — C++
+Console-based system demonstrating OOP and DSA fundamentals: binary search,
+sorting algorithms, and file-based persistence — no framework, just the standard library.
 
 **Ecommerce Store Builds (WordPress & Shopify)** — Freelance
 Developed and customized multiple online stores using WooCommerce and Shopify, including
