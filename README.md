@@ -48,4 +48,4 @@ payment gateway integration, shipping rule configuration, and inventory manageme
 
 ---
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/muhammad-abubakar3009/) • [Portfolio](#) • abubakaarmughal@gmail.com
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/muhammad-abubakar3009/) • [Portfolio](https://muhammad-abubakar3009.github.io/portfolio/) • abubakaarmughal@gmail.com
